@@ -17,12 +17,13 @@ A writer
 
 ## Premises
 
-- Generative writing is the most valuable activity: All other activites descend from it.
+- Generative writing is the most valuable activity: All other activities descend from it.
 - Generative writing and editing use different parts of the brain: These activities should be done at separate times.
 - Generative writing is best done when half-wake because your internal editor is not fully on.
-- Editing is best done when fully awake because the internal editor be fully activated.
-- Most of writing involves rewriting.
+- Editing is best done when fully awake because the internal editor will be fully activated.
+- Most writing involves rewriting.
 - Planning is an important (underemphasized) component of writing.
 - Writing includes any activity that advances a writing project
-- Many writing activites cannot be captured by the word count. Hence, the need to track the time spent during these activities to document these efforts.
+- Many writing activities cannot be captured by the word count. Hence, the need to track the time spent during these activities to document these efforts.
 - Time tracking is an important component of time management: Writing involves a lot of time management.
+
