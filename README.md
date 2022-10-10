@@ -27,4 +27,22 @@ A writer
 - Writing includes any activity that advances a writing project
 - Many writing activities cannot be captured by the word count. Hence, the need to track the time spent during these activities to document these efforts.
 - Time tracking is an important component of time management: Writing involves a lot of time management.
-- Due the [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng), 90 minutes of writing on one project is optimal. (Thank you to Randall Mooers for alerting me to this.)
+- Due the [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng), 90 minutes of writing on one project is optimal. (Thank you to my brother, Randall Mooers, for alerting me to this.)
+
+## Related links
+
+- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg)
+- [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX/edit/main/README.md)
+- [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg/edit/main/README.md)
+- [Workbook for 2022 for tracking time spent and words written by project](https://github.com/MooersLab/writingProgress2022)
+- [Slideshow template in LaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX)
+- [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography)
+- [Diary for 2022 in LaTeX](https://github.com/MooersLab/diary2022inLaTeX)
+- [Diary for 2023 in LaTeX](https://github.com/MooersLab/diary2023inLaTeX)
+- [latex-emacs profile](https://github.com/MooersLab/latex-emacs)
+- [default Emacs profile](https://github.com/MooersLab/configorg)
+- [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode)
+- [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs)
+- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext)
+- [Video link to talk about GhostText, Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
+- [Slideshow about using LaTeX in Emacs, Berlin Emacs Meetup, 31 August 2022](https://github.com/MooersLab/BerlinEmacsAugust2022)
