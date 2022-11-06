@@ -26,7 +26,7 @@ A writer
 - Planning is an important (underemphasized) component of writing.
 - Writing includes any activity that advances a writing project
 - Many writing activities cannot be captured by the word count. Hence, the need to track the time spent during these activities to document these efforts.
-- Time tracking is an important component of time management: Writing involves a lot of time management.
+- Time tracking is an important component of time management: **Writing involves a lot of time management!!**
 - Due the [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng), 90 minutes of writing on one project is optimal. (Thank you to my brother, Randall Mooers, for alerting me to this.)
 - Writing includes any activity that advances a writing project, not just generative writing. 
   - Writing includes reading the papers that you cite. This reading activity can rejuvenate your momentum and inspire new ideas. It is best done in the evening so that your subconscious can go to work for you overnight. 
