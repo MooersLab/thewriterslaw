@@ -13,8 +13,12 @@ A writer
 - Writes without distractions (no YouTube videos, TV, radio, etc; playing classical music is okay).
 - Tracks the time spent and words written on a project. 
 - Uses a writing log for each writing project.
-- Reads and writes about writing at least once a week.
 - Makes writing social when its mutually beneficial. 
+- Reads and writes about writing at least once a week.
+- Keeps up on junk Enlighs, wordy phrases, and cliches to avoid their use.
+- If a scientist, writes with precision, clarity, and conciseness. The order is in descending order of importance.
+- Respects the Oxford comma. The current fade to drop it leads to loss of precission and clarity for a tiny gain in concisenss.
+- Does not fear using the software tools like Grammarly, the languagetool, and the Hemingway.app to improve their writing. Knows enought about writing to accept only half of the suggestions.
 
 ## Premises
 
@@ -27,9 +31,9 @@ A writer
 - Writing includes any activity that advances a writing project
 - Many writing activities cannot be captured by the word count. Hence, the need to track the time spent during these activities to document these efforts.
 - Time tracking is an important component of time management: **Writing involves a lot of time management!!**
-- Due the [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng), 90 minutes of writing on one project is optimal. (Thank you to my brother, Randall Mooers, for alerting me to this.)
+- Due the [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng), 90 minutes of writing on one project is optimal. (Thank you to my brother, Randall, for alerting me to this.)
 - Writing includes any activity that advances a writing project, not just generative writing. 
-  - Writing includes reading the papers that you cite. This reading activity can rejuvenate your momentum and inspire new ideas. It is best done in the evening so that your subconscious can go to work for you overnight. 
+  - Writing includes reading the papers that you cite. This reading activity can rejuvenate your momentum and inspire new ideas. It is best done in the evening so that your subconscious can work overnight. 
   - Writing includes mundane tasks like managing bibliographic libraries and making figures.
   - Writing includes data analysis.
 
