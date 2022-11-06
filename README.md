@@ -1,6 +1,6 @@
 # The Writer's Crede
 
-A writer
+A writer does the following:
 
 - Schedules daily writing time.
 - Shows up and writes during the scheduled writing time.
