@@ -17,7 +17,7 @@ A writer does the following:
 - Reads and writes about writing at least once a week.
 - Keeps up on junk Enlighs, wordy phrases, and cliches to avoid their use.
 - If a scientist, writes with precision, clarity, and conciseness. The order is in descending order of importance.
-- Respects the Oxford comma. The current fade to drop it leads to loss of precission and clarity for a tiny gain in concisenss.
+- Respects the Oxford comma. The current fade to drop it leads to loss of precission and clarity for a tiny gain in concisenss. This is a good example of the lack of wisdom of the crowd.
 - Does not fear using the software tools like Grammarly, the languagetool, and the Hemingway.app to improve their writing. Knows enought about writing to accept only half of the suggestions.
 
 ## Premises
