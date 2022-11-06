@@ -15,7 +15,7 @@ A writer does the following:
 - Uses a writing log for each writing project.
 - Makes writing social when its mutually beneficial. 
 - Reads and writes about writing at least once a week.
-- Keeps up on junk Enlighs, wordy phrases, and cliches to avoid their use.
+- Keeps up on weasel words, junk English, wordy phrases, and cliches to avoid their use.
 - If a scientist, writes with precision, clarity, and conciseness. The order is in descending order of importance.
 - Respects the Oxford comma. The current fade to drop it leads to loss of precission and clarity for a tiny gain in concisenss. This is a good example of the lack of wisdom of the crowd.
 - Does not fear using the software tools like Grammarly, the languagetool, and the Hemingway.app to improve their writing. Knows enought about writing to accept only half of the suggestions.
