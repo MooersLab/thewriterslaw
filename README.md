@@ -5,27 +5,27 @@ A writer does the following:
 - Schedules daily writing time.
 - Shows up and writes during the scheduled writing time.
 - Stands up and walks around every 25 minutes for no more than 5 minutes (i.e., uses the Pomodoro technique).
-- Limits writing to 3-5 hours per day.
+- Limits generative writing to 3-5 hours per day; the remainder of the day can be spent on supportive tasks.
 - Overcomes writers block by rewriting the last paragraph or by reverse outlining a section.
 - Manages their energy by doing generative writing first and supportive writing chores when tired. Does not wait to be inspired.
 - Does generative writing when half-awake early in the day and editing and rewriting when fully alert later in the day.
 - Masters their writing tools without letting the tools master them. 
-- Writes without distractions (no YouTube videos, TV, radio, etc; playing classical music is okay).
+- Writes without distractions (no YouTube videos, TV, radio, etc; playing classical music is okay sometimes).
 - Tracks the time spent and words written on a project. 
 - Uses a writing log for each writing project.
 - Makes writing social when its mutually beneficial. 
-- Reads and writes about writing at least once a week.
+- Reads and writes about writing at least once a fortnight.
 - Keeps up on weasel words, junk English, wordy phrases, and cliches to avoid their use.
-- If a scientist, writes with precision, clarity, and conciseness. The order is in descending order of importance.
-- Respects the Oxford comma. The current fade to drop it leads to loss of precission and clarity for a tiny gain in concisenss. This is a good example of the lack of wisdom of the crowd.
-- Does not fear using the software tools like Grammarly, the languagetool, and the Hemingway.app to improve their writing. Knows enought about writing to accept only half of the suggestions.
+- If a scientist, writes with precision, clarity, and conciseness. The order is in descending importance.
+- Respects the Oxford comma. The current fade to drop it leads to loss of precission and clarity for a tiny gain in conciseness. This fad a demonstration   that the crowd can pick suboptional solutions.
+- Does not fear using the software tools like Grammarly, the languagetool, and the Hemingway.app to improve their writing. Knows enough about writing to  accept only the useful suggestions. These are tools; not sentient beings. You still have to do the work of using the tools correctly. Nonetheless, the tools can improve your writing in less time.
 
 ## Premises
 
-- Generative writing is the most valuable activity: All other activities descend from it.
+- Generative writing is the most valuable activity: All other benefits and activities descend from it.
 - Generative writing and editing use different parts of the brain: These activities should be done at separate times.
 - Generative writing is best done when half-wake because your internal editor is not fully on.
-- Editing is best done when fully awake because the internal editor will be fully activated. (Be careful; late-night editing can keep you awake later than you intend and interfere with your sleep pattern.)
+- Editing is best done when fully awake because the internal editor will be fully activated. (Be careful; late-night editing can keep you awake later than you intend and interfer with your sleep pattern.)
 - Most writing involves rewriting.
 - Planning is an important (underemphasized) component of writing.
 - Writing includes any activity that advances a writing project
