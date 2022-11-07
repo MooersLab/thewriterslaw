@@ -20,20 +20,20 @@
 
 ## Premises
 
-- Generative writing is the most valuable activity: All other benefits and activities descend from it.
+
+- Generative writing is the most valuable activity: All other activities descend from it.
 - Generative writing and editing use different parts of the brain: These activities should be done at separate times.
 - Generative writing is best done when half-wake because your internal editor is not fully on.
-- Editing is best done when fully awake because the internal editor will be fully activated. (Be careful; late-night editing can keep you awake later than you intend and interfer with your sleep pattern.)
+- Editing is best done when fully awake because your internal editor will be fully activated. (Be careful; late-night editing can keep you awake later than intended and interfere with your sleep pattern.)
 - Most writing involves rewriting.
 - Planning is an important (underemphasized) component of writing.
 - Writing includes any activity that advances a writing project
-- Many writing activities cannot be captured by the word count. Hence, the need to track the time spent during these activities to document these efforts.
+- The word count does not capture most writing-related activities. Hence, the need to track the time spent during these activities to document these efforts.
 - Time tracking is an important component of time management: **Writing involves a lot of time management!!**
-- Due the [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng), 90 minutes of writing on one project is optimal. (Thank you to my brother, Randall, for alerting me to this.)
-- Writing includes any activity that advances a writing project, not just generative writing. 
-  - Writing includes reading the papers that you cite. This reading activity can rejuvenate your momentum and inspire new ideas. It is best done in the evening so that your subconscious can work overnight. 
-  - Writing includes mundane tasks like managing bibliographic libraries and making figures.
-  - Writing includes data analysis.
+- 90 minutes of generative writing per day on one project is the optimal length of time due to our [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng). Thank you to my brother, Randall, for alerting me to this. Longer stretches of writing on one project are known as binge writing and lead to diminishing returns. 
+- Writing includes reading the papers that you cite. This reading activity can rejuvenate your momentum and inspire new ideas. It is best done in the evening so that your subconscious can work overnight. 
+- Writing includes mundane tasks like managing bibliographic libraries and making figures.
+- Writing includes data analysis.
 
 ## Related links
 
