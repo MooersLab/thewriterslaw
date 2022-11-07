@@ -1,5 +1,7 @@
 # The Writer's Crede
 
+A writer does the following:
+
 - Schedules daily writing time.
 - Shows up and writes during the scheduled writing time.
 - Stands up and walks around every 25 minutes for no more than 5 minutes (i.e., uses the Pomodoro technique).
