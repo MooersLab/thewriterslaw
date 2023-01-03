@@ -32,7 +32,7 @@ A writer does the following:
 - Writing includes any activity that advances a writing project
 - The word count does not capture most writing-related activities. Hence, the need to track the time spent during these activities to document these efforts.
 - Time tracking is an important component of time management: **Writing involves a lot of time management!!**
-- 90 minutes of generative writing per day on one project is the optimal length of time due to our [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng). Thank you to my brother, Randall, for alerting me to this. Longer stretches of writing on one project are known as *binge writing * and lead to diminishing returns. 
+- 90 minutes of generative writing per day on one project is the optimal length of time due to our [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng). Thank you to my brother, Randall, for alerting me to this. Longer stretches of writing on one project are known as *binge writing* and lead to diminishing returns. 
 - Writing includes reading the papers that you cite. This reading activity can rejuvenate your momentum and inspire new ideas. It is best done in the evening so that your subconscious can work overnight. 
 - Writing includes mundane tasks like managing bibliographic libraries and making figures.
 - Writing includes data analysis.
