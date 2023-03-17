@@ -15,14 +15,14 @@ A writer does the following:
 - Uses a writing log for each writing project.
 - Makes writing social when it is mutually beneficial. 
 - Reads and writes about writing at least once a fortnight.
-- Keeps up on weasel words, junk English, wordy phrases, and cliches to avoid their use.
+- Keeps up on weasel words, junk English, wordy phrases, and clichés and reviews this list quarterly to avoid their use.
 - If a scientist, writes with precision, clarity, and conciseness. The order is in descending importance.
-- Respects the Oxford comma. The current fade to drop it leads to loss of precision and clarity for a tiny gain in conciseness. This fad demonstrates that the crowd can pick suboptimal solutions.
-- Does not fear using the software tools like Grammarly, the languagetool, and the Hemingway.app to improve their writing. Knows enough about good writing to accept only the useful suggestions. These are tools; not sentient beings. You still have to do the work of using the tools correctly. Nonetheless, the tools can improve your writing in less time.
+- Respects the Oxford comma. The current fade to drop the Oxford comma leads to loss of precision and clarity for a tiny gain in conciseness. This fad demonstrates that the crowd can pick suboptimal solutions.
+- Does not fear using the software tools like *Grammarly*, the *LanguageTool*, and the *Hemingway.app* to improve their writing. Knows enough about good writing to accept only the useful suggestions. These are tools; not sentient beings. You still have to do the work of using the tools correctly. Nonetheless, the tools can improve your writing in less time.
 
 ## Premises
 
-
+- Writing is any activity that advances a writing project. Most of these activities do not involve generative writing.
 - Generative writing is the most valuable activity: All other activities descend from it.
 - Generative writing and editing use different parts of the brain: These activities should be done at separate times.
 - Generative writing is best done when half-wake because your internal editor is not fully on.
@@ -31,9 +31,9 @@ A writer does the following:
 - Planning is an important (underemphasized) component of writing.
 - Writing includes any activity that advances a writing project
 - The word count does not capture most writing-related activities. Hence, the need to track the time spent during these activities to document these efforts.
-- Time tracking is an important component of time management: **Writing involves a lot of time management!!**
+- Time tracking is an essential component of time management. It is hard to manage what you do not measure. **Writing involves a lot of time management!!**
 - 90 minutes of generative writing per day on one project is the optimal length of time due to our [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng). Thank you to my brother, Randall, for alerting me to this. Longer stretches of writing on one project are known as *binge writing* and lead to diminishing returns. 
-- Writing includes reading the papers that you cite. This reading activity can rejuvenate your momentum and inspire new ideas. It is best done in the evening so that your subconscious can work overnight. 
+- Writing includes reading the papers that you cite. This reading activity can rejuvenate your momentum and inspire new ideas. It is best done in the evening so that your subconscious can work overnight with the new insights. **Writing involves feeding your subconscious.**
 - Writing includes mundane tasks like managing bibliographic libraries and making figures.
 - Writing includes data analysis.
 
