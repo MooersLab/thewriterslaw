@@ -39,6 +39,7 @@ A writer does the following:
 
 ## Related links
 
+- [LaTeX tips](https://github.com/MooersLab/latextips) for increased productivity.
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg)
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX/edit/main/README.md)
 - [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg/edit/main/README.md)
