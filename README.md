@@ -1,4 +1,4 @@
-# The Writer's Crede
+# The Writer's Creed
 
 A writer does the following:
 
