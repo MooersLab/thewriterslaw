@@ -10,7 +10,7 @@ A writer does the following:
 - Manages their energy by doing generative writing first and supportive writing chores when tired. Does not wait to be inspired.
 - Does generative writing when half-awake early in the day and editing and rewriting when fully alert later in the day.
 - Masters their writing tools without letting the tools master them. 
-- Writes without distractions (no YouTube videos, TV, radio, etc; playing classical music is okay sometimes).
+- Writes without distractions (no YouTube videos, TV, radio, etc.; playing classical music is okay sometimes).
 - Tracks the time spent and words written on a project. 
 - Uses a writing log for each writing project.
 - Makes writing social when it is mutually beneficial. 
