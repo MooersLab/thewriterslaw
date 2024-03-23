@@ -1,3 +1,6 @@
+![Version](https://img.shields.io/static/v1?label=thewriterslaw&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # The Writer's Creed
 
 A writer does the following:
