@@ -39,7 +39,7 @@ A writer does the following:
 - Writing is any activity that advances a writing project. Most of the time spent on these writing activities does not involve generative writing.
 - Generative writing is the most valuable activity: All other activities descend from it.
 - Generative writing and editing use different parts of the brain, so they should be done at separate times.
-- Generative writing is best done when half awake because your internal editor is not fully on so new ideas are more likely to spring forth.
+- Generative writing is best done when half awake because your internal editor is not fully on so new ideas are more likely to emerge.
 - Generative writing be done by dictation while commuting if planned before the commute.
 - Editing is best done when fully awake because your internal editor will be activated. (Be careful; late-night editing can keep you awake later than intended and interfere with your sleep pattern.)
 - Most of the time spent on actual *writing* involves rewriting.
