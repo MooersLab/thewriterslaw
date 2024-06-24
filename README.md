@@ -21,18 +21,16 @@ A writer does the following:
 - Uses a separate writing log for each writing project.
 - Makes writing social when it is mutually beneficial. 
 - Reads and writes about writing at least once a fortnight.
-- Keeps up on weasel words, junk English, wordy phrases, and clichés; reviews this list quarterly to avoid their use.
-- If a scientist, writes with precision, clarity, and conciseness. The order is in descending importance.
-- Respects the Oxford comma. The current fad is to drop the Oxford comma. This omission leads to a loss of precision and clarity for a tiny gain in conciseness. This fad demonstrates that the crowd can pick suboptimal solutions.
-- The same applies to the fad of retaining the comma before conjunctions while dropping the phrase's subject after it.
+- Keeps up on weasel words,  wordy phrases, cliché, and other junk English; reviews this list quarterly to avoid their use.
+- If a scientist, writes with precision, clarity, and conciseness. The order is in descending importance. Has memorized this list.
 - Uses computerized writing tools responsibly, not blindly: Takes full responsibility for the final draft.
 - Documents in writing log any use of AI to generate or paraphrase passages.
 - Uses dictation software for some generative writing.
 - Uses software tools like *Grammarly*, the *LanguageTool*, and the *Hemingway.app* to stimulate improvements in their writing.
 - Knows enough about good writing to accept only useful suggestions.
-- Does not blindly accept noun clusters, English contractions, and weasel words suggested by software.
+- Does not blindly accept noun clusters, English contractions, and weasel words suggested by AI software.
 - Uses copilot when exhausted to complete sentences.
-- Uses the paraphrasing tool of some chatbots (e.g. TexGPT) cautiously and only to generate intermediate drafts; they are especially useful for cleaning up dictated text to give a second draft that can be comprehended.
+- Uses the paraphrasing tool of some chatbots (e.g. TexGPT) cautiously and only to generate intermediate drafts.
 - Reviews this list periodically.
 
 ## Premises
