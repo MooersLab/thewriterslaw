@@ -30,7 +30,7 @@
 - Knows enough about good writing to accept only useful suggestions.
 - Does not blindly accept noun clusters, English contractions, and weasel words suggested by AI software.
 - Uses copilot when exhausted to complete sentences.
-- Uses the paraphrasing tool of some chatbots (e.g. TexGPT) cautiously and only to generate intermediate drafts.
+- Uses the paraphrasing tool of some chatbots (e.g., TexGPT) cautiously and only to generate intermediate drafts.
 - Reads this list periodically.
 
 ## Premises
@@ -40,15 +40,15 @@
 - Generative writing and editing use different parts of the brain, so they should be done at separate times.
 - Generative writing is best done when half awake because your internal editor is not fully on so new ideas are more likely to evade your internal editor and make it onto the page.
 - Generative writing can be done by dictation while commuting if the *writing triggers* are planned before the commute. Writing triggers are the next topics to be expanded upon in a paper. They can also be used when not commuting. Take care if commuting by driving a car: This can be a form of distracted driving.
-- Editing is best done when fully awake because your internal editor will be activated. (Be careful; late-night editing can keep you awake later than intended and interfere with your sleep pattern with a productivity hit to be paid the next or following day.)
+- Editing is best done when fully awake because your internal editor will be activated. (Be careful; late-night editing can keep you awake later than intended and interfere with your sleep pattern with a productivity hit to be paid the following day.)
 - Most of the time spent on actual *writing* involves **rewriting**.
 - **Planning** is an important (underemphasized) component of writing.
 - Writing includes any activity that advances a writing project.
 - The word count does not capture most writing-related activities. Hence, the time spent on these activities must be tracked to document these efforts.
 - Time tracking is an essential component of time management. It is hard to manage what you do not measure. **Writing involves a lot of time management!!**
-- 90 minutes of generative writing per day on one project is the optimal time due to our [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng). Longer stretches of writing on one project are known as *binge writing*, which always leads to diminishing returns. 
+- Per day, 90 minutes of generative writing on one project is the optimal time due to our [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng). Longer stretches of writing on one project are known as *binge writing*, which always leads to diminishing returns. 
 - Writing includes reading the papers that you cite and those that you do not wind up citing. This reading activity can rejuvenate your momentum and inspire new ideas. It is best done in the evening so your subconscious can work overnight with the new insights. **Writing involves feeding your subconscious: Feed our head!**. Reading is grossly underemphasized in books about writing. Time should be scheduled for it else it is less likely to be done.
-- Writing includes mundane tasks like managing bibliographic libraries and making figures; these are good afternoon activities.
+- Writing includes mundane tasks like managing bibliographic libraries and making figures; these are suitable afternoon activities.
 - Writing includes data analysis.
 
 ## Related links
@@ -78,7 +78,7 @@
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.2 |  Added badges and update table. Made minor edits of the README.md file.                                                                        | 2024 May 7           |
 | Version 0.3 |  Added more tips about the use of writing tools.                                                                                           | 2024 June 22         |
-| Version 0.3 |  More additions and edits.                                                                                           | 2024 October 16         |
+| Version 0.4 |  More additions and edits.                                                                                           | 2024 October 16         |
 
 ## Funding
 - NIH: R01 CA242845, R01 AI088011
