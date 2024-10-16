@@ -1,9 +1,9 @@
-![Version](https://img.shields.io/static/v1?label=thewriterslaw&message=0.3&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=thewriterslaw&message=0.4&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # The Writer's Creed
 
-A writer does the following:
+## A writer does the following:
 
 - Schedules daily writing time on workdays; takes a relaxed approach on weekends.
 - Shows up and writes during the scheduled writing time.
@@ -22,7 +22,7 @@ A writer does the following:
 - Makes writing social when it is mutually beneficial. 
 - Reads and writes about writing at least once a fortnight.
 - Keeps up on weasel words,  wordy phrases, cliché, and other junk English; reviews this list quarterly to avoid their use.
-- If a scientist, writes with precision, clarity, and conciseness. The order is in descending importance. Has memorized this list.
+- A scientist writes with precision, clarity, and conciseness. The order is in descending importance. Has memorized this list.
 - Uses computerized writing tools responsibly, not blindly: Takes full responsibility for the final draft.
 - Documents in writing log any use of AI to generate or paraphrase passages.
 - Uses dictation software for some generative writing.
@@ -31,23 +31,23 @@ A writer does the following:
 - Does not blindly accept noun clusters, English contractions, and weasel words suggested by AI software.
 - Uses copilot when exhausted to complete sentences.
 - Uses the paraphrasing tool of some chatbots (e.g. TexGPT) cautiously and only to generate intermediate drafts.
-- Reviews this list periodically.
+- Reads this list periodically.
 
 ## Premises
 
 - Writing is any activity that advances a writing project. Most of the time spent on these writing activities does not involve generative writing.
 - Generative writing is the most valuable activity: All other activities descend from it.
 - Generative writing and editing use different parts of the brain, so they should be done at separate times.
-- Generative writing is best done when half awake because your internal editor is not fully on so new ideas are more likely to emerge.
-- Generative writing be done by dictation while commuting if planned before the commute.
-- Editing is best done when fully awake because your internal editor will be activated. (Be careful; late-night editing can keep you awake later than intended and interfere with your sleep pattern.)
-- Most of the time spent on actual *writing* involves rewriting.
-- Planning is an important (underemphasized) component of writing.
+- Generative writing is best done when half awake because your internal editor is not fully on so new ideas are more likely to evade your internal editor and make it onto the page.
+- Generative writing can be done by dictation while commuting if the *writing triggers* are planned before the commute. Writing triggers are the next topics to be expanded upon in a paper. They can also be used when not commuting. Take care if commuting by driving a car: This can be a form of distracted driving.
+- Editing is best done when fully awake because your internal editor will be activated. (Be careful; late-night editing can keep you awake later than intended and interfere with your sleep pattern with a productivity hit to be paid the next or following day.)
+- Most of the time spent on actual *writing* involves **rewriting**.
+- **Planning** is an important (underemphasized) component of writing.
 - Writing includes any activity that advances a writing project.
 - The word count does not capture most writing-related activities. Hence, the time spent on these activities must be tracked to document these efforts.
 - Time tracking is an essential component of time management. It is hard to manage what you do not measure. **Writing involves a lot of time management!!**
-- 90 minutes of generative writing per day on one project is the optimal length of time due to our [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng). Thank you to my brother, Randall, for alerting me to this. Longer stretches of writing on one project are known as *binge writing*, which always leads to diminishing returns. 
-- Writing includes reading the papers that you cite and those that you do not wind up citing. This reading activity can rejuvenate your momentum and inspire new ideas. It is best done in the evening so your subconscious can work overnight with the new insights. **Writing involves feeding your subconscious: Feed our head!**. Reading is grossly underemphasized in writing books. Time should be scheduled for it else it is less likely to be done.
+- 90 minutes of generative writing per day on one project is the optimal time due to our [ultradian cycles](https://www.youtube.com/watch?v=ezT8kGzYOng). Longer stretches of writing on one project are known as *binge writing*, which always leads to diminishing returns. 
+- Writing includes reading the papers that you cite and those that you do not wind up citing. This reading activity can rejuvenate your momentum and inspire new ideas. It is best done in the evening so your subconscious can work overnight with the new insights. **Writing involves feeding your subconscious: Feed our head!**. Reading is grossly underemphasized in books about writing. Time should be scheduled for it else it is less likely to be done.
 - Writing includes mundane tasks like managing bibliographic libraries and making figures; these are good afternoon activities.
 - Writing includes data analysis.
 
@@ -76,9 +76,9 @@ A writer does the following:
 
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.2 |  Added badges and update table. Made minor edits of README.md file.                                                                        | 2024 May 7           |
+| Version 0.2 |  Added badges and update table. Made minor edits of the README.md file.                                                                        | 2024 May 7           |
 | Version 0.3 |  Added more tips about the use of writing tools.                                                                                           | 2024 June 22         |
-
+| Version 0.3 |  More additions and edits.                                                                                           | 2024 October 16         |
 
 ## Funding
 - NIH: R01 CA242845, R01 AI088011
