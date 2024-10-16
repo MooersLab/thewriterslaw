@@ -39,7 +39,7 @@
 - Generative writing is the most valuable activity: All other activities descend from it.
 - Generative writing and editing use different parts of the brain, so they should be done at separate times.
 - Generative writing is best done when half awake because your internal editor is not fully on so new ideas are more likely to evade your internal editor and make it onto the page.
-- Generative writing can be done by dictation while commuting if the *writing triggers* are planned before the commute. Writing triggers are the next topics to be expanded upon in a paper. They can also be used when not commuting. Take care if commuting by driving a car: This can be a form of distracted driving.
+- Generative writing can be done well by dictation while commuting if the *writing triggers* are planned before the commute. Writing triggers are topics to be expanded upon in a paper. The triggers are meant to initiate and guide the dictation but not constrain it. News ideas often emerge during the dictation. Triggers can also be used when not commuting. Take care if commuting by driving a car: This can be a form of distracted driving. Cell phones are not designed for this task: Use a \$80 dollar digital voice recorder instead.
 - Editing is best done when fully awake because your internal editor will be activated. (Be careful; late-night editing can keep you awake later than intended and interfere with your sleep pattern with a productivity hit to be paid the following day.)
 - Most of the time spent on actual *writing* involves **rewriting**.
 - **Planning** is an important (underemphasized) component of writing.
