@@ -60,8 +60,6 @@
 - [Workbook for 2022 for tracking time spent and words written by project](https://github.com/MooersLab/writingProgress2022)
 - [Slideshow template in LaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX)
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography)
-- [Diary for 2022 in LaTeX](https://github.com/MooersLab/diary2022inLaTeX)
-- [Diary for 2023 in LaTeX](https://github.com/MooersLab/diary2023inLaTeX)
 - [Diary for 2024 in LaTeX](https://github.com/MooersLab/diary2024inLaTeX)
 - [latex-emacs profile](https://github.com/MooersLab/latex-emacs)
 - [default Emacs profile](https://github.com/MooersLab/configorg)
